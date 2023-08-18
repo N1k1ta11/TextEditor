@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/reference">
+        <file>ref.txt</file>
+    </qresource>
+    <qresource prefix="/translate">
+        <file>QtLanguage_ru.qm</file>
+        <file>QtLanguage_en.qm</file>
+    </qresource>
+</RCC>

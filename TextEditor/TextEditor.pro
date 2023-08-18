@@ -22,3 +22,9 @@ FORMS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+RESOURCES += \
+    res.qrc
+
+TRANSLATIONS += QtLanguage_ru.ts QtLanguage_en.ts
+CODECSRC += UTF-8
