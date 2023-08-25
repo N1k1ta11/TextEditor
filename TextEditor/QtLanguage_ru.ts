@@ -6,41 +6,65 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished">Главное окно</translation>
+        <translation>Главное окно</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="37"/>
-        <location filename="mainwindow.cpp" line="11"/>
+        <source>Light theme</source>
+        <translation type="vanished">Светлая тема</translation>
+    </message>
+    <message>
+        <source>Dark theme</source>
+        <translation type="vanished">Тёмная тема</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="28"/>
+        <source>File</source>
+        <translation>Файл</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="30"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="50"/>
-        <location filename="mainwindow.cpp" line="10"/>
+        <location filename="mainwindow.cpp" line="34"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="63"/>
-        <location filename="mainwindow.cpp" line="13"/>
+        <location filename="mainwindow.cpp" line="41"/>
+        <source>Create</source>
+        <translation>Создать</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="47"/>
+        <source>Exit</source>
+        <translation>Выход</translation>
+    </message>
+    <message>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Справка</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="76"/>
+        <location filename="mainwindow.cpp" line="38"/>
         <source>Open only read</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть только для чтения</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="90"/>
-        <location filename="mainwindow.cpp" line="14"/>
         <source>ENG</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">АНГ</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="95"/>
         <source>RUS</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">РУС</translation>
+    </message>
+    <message>
+        <source>Reset Hot key</source>
+        <translation type="vanished">Изменить горячие клавишы</translation>
+    </message>
+    <message>
+        <source>Read Only</source>
+        <translation type="vanished">Открыть только для чтения</translation>
     </message>
 </context>
 </TS>

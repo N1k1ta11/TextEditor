@@ -1,1 +1,7 @@
-Это текстовый редактор
+Это текстовый редактор.
+
+Hot key:
+1. CTRL+O - open file
+2. CTRL+S - save file
+3. CTRL+N - create new file
+4. CTRL+Q - quit this program

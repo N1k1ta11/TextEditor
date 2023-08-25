@@ -6,41 +6,61 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>MainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation>MainWindow</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="37"/>
-        <location filename="mainwindow.cpp" line="11"/>
+        <source>Light theme</source>
+        <translation type="vanished">Light theme</translation>
+    </message>
+    <message>
+        <source>Dark theme</source>
+        <translation type="vanished">Dark theme</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="28"/>
+        <source>File</source>
+        <translation>File</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="30"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Save</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="50"/>
-        <location filename="mainwindow.cpp" line="10"/>
+        <location filename="mainwindow.cpp" line="34"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Open</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="63"/>
-        <location filename="mainwindow.cpp" line="13"/>
+        <location filename="mainwindow.cpp" line="41"/>
+        <source>Create</source>
+        <translation>Create</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="47"/>
+        <source>Exit</source>
+        <translation>Exit</translation>
+    </message>
+    <message>
         <source>Reference</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Reference</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="76"/>
+        <location filename="mainwindow.cpp" line="38"/>
         <source>Open only read</source>
-        <translation type="unfinished"></translation>
+        <translation>Open only read</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="90"/>
-        <location filename="mainwindow.cpp" line="14"/>
         <source>ENG</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ENG</translation>
     </message>
     <message>
-        <location filename="mainwindow.ui" line="95"/>
         <source>RUS</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">RUS</translation>
+    </message>
+    <message>
+        <source>Reset Hot key</source>
+        <translation type="vanished">Reset Hot key</translation>
     </message>
 </context>
 </TS>
